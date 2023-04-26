@@ -512,14 +512,14 @@ main.row {
     }
 
     .education {
-        justify-content: center;
-        display: flex;
-        align-items: center;
-        background-color: #fafafa;
-        height: 252vh;
-        width: 100%;
-        /* margin-top: 140px; */
-        padding: 40px;
+           /* justify-content: center; */
+    /* display: flex; */
+    /* align-items: center; */
+    background-color: #fafafa;
+    height: 105vh;
+    width: 100%;
+    /* margin-top: 140px; */
+    padding: 40px;
     }
 
     .container-contact {
@@ -541,7 +541,7 @@ main.row {
     }
 
     .container-contact {
-        height: 100vh;
+        height: 110vh;
         width: 100%;
         display: flex;
         padding: 0px;
@@ -552,7 +552,22 @@ main.row {
         margin-top: 12px;
         margin-left: 18px;
     }
-
+    #about{
+        height: 115vh;
+    }
+    #hero{
+        height: 115vh;
+    }
+    .right-contact {
+        margin-left: 0;
+        width: 100%;
+    }
+    .icons{
+        position: relative;
+        top: 0px;
+        left: 40px;
+        display: flex;
+    }
     .container-about {
         /* height: 100vh; */
         width: 100%;
@@ -562,20 +577,24 @@ main.row {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        margin-top: 20px
+        ;
     }
 
     .about-left {
         width: 100%;
         height: 100%;
+        margin-top: 110px;
     }
 
 
     .about-left img {
         height: 400px;
-        width: 85%;
+        width: 100%;
         /* margin-top: 15px; */
-        margin-left: 15px;
+        
         border-radius: 100%;
+       
     }
 
     .about-right {
@@ -583,10 +602,17 @@ main.row {
         margin-top: 11px;
         padding: 17px;
     }
-
+    .skills{
+        margin-top: 100px;
+    }
     .bcontainer,
     .right {
         /* display: flex; */
         margin-top: 140px;
     }
+}
+
+.gallery .container .row img:hover{
+    transform: scale(1.3);
+    transition: .5s ease-in;
 }
