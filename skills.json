@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Astronomy",
+        "icon": "./assets/images/astronomy.png"
+    },
+    {
+        "name": "Astrophysics",
+        "icon": "./assets/images/astronomer.png"
+    },
+    {
+        "name": "Research",
+        "icon": "./assets/images/seo.png"
+    },
+    {
+        "name": "Leadership ",
+        "icon": "./assets/images/leadership.png"
+    },
+    {
+        "name": "Communication",
+        "icon": "./assets/images/conversation.png"
+    },
+    {
+        "name": "Poetry",
+        "icon": "./assets/images/poetry.png"
+    },
+    {
+        "name": "Public Speaker",
+        "icon": "./assets/images/conference.png"
+    },
+    {
+        "name": "Social Activist",
+        "icon": "./assets/images/protest.png"
+    }
+]
