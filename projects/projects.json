@@ -2,7 +2,7 @@
   {
     "name": "NotyStack Android",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "user",
+    "image": "Explore1",
     "category": "android",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
@@ -12,8 +12,8 @@
   {
     "name": "SPPU Engg Prep",
     "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "2",
-    "category": "android",
+    "image": "Acheivment3",
+    "category": "lamp",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/jigar-sable/sppu-prep-android"
@@ -22,8 +22,8 @@
   {
     "name": "NewsBox Android",
     "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
-    "image": "3",
-    "category": "android",
+    "image": "Acheivment4",
+    "category": "lamp",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/jigar-sable/newsbox-android"
@@ -31,19 +31,39 @@
   },
   {
     "name": "Weatherly Android",
-    "image": "8",
-    "category": "android"
+    "image": "Certificate1",
+    "category": "mern"
     
   },
   {
-    "image": "user",
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "Explore3",
+    "category": "android",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  },
+  {
+    "image": "Certificate2",
     "category": "mern"
     
   },
   {
     "name": "Flipkart MERN",
     "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "3",
+    "image": "Certificate3",
+    "category": "mern",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  },
+  {
+    "name": "Flipkart MERN",
+    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "image": "Certificate4",
     "category": "mern",
     "links": {
       "view": "https://flipkartwebs.herokuapp.com/",
@@ -53,8 +73,8 @@
   {
     "name": "ResumeGen",
     "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "4",
-    "category": "mern",
+    "image": "Acheivment2",
+    "category": "lamp",
     "links": {
       "view": "https://resumegenx.netlify.app/",
       "code": "https://github.com/jigar-sable/resumegen"
@@ -63,8 +83,8 @@
   {
     "name": "React-Projects",
     "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "5",
-    "category": "mern",
+    "image": "Work2",
+    "category": "basicweb",
     "links": {
       "view": "https://reactjsprojects.herokuapp.com/",
       "code": "https://github.com/jigar-sable/React-Projects"
@@ -73,8 +93,8 @@
   {
     "name": "Flipkart PHP",
     "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "6",
-    "category": "lamp",
+    "image": "Work3",
+    "category": "basicweb",
     "links": {
       "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
       "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
@@ -83,11 +103,82 @@
   {
     "name": "JavaScript Projects Website",
     "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "7",
+    "image": "Explore8",
+    "category": "android",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "Acheivement1",
+    "category": "lamp",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "Work1",
     "category": "basicweb",
     "links": {
       "view": "https://jigar-sable.github.io/JavaScript-Projects",
       "code": "https://github.com/jigar-sable/JavaScript-Projects"
     }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "Explore4",
+    "category": "android",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "Work4",
+    "category": "basicweb",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "Explore5",
+    "category": "android",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "Explore7",
+    "category": "android",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "Explore6",
+    "category": "android",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
   }
+ 
 ]

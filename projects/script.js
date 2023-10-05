@@ -40,6 +40,7 @@ function getProjects() {
 }
 
 
+
 function showProjects(projects) {
     let projectsContainer = document.querySelector(".work .box-container");
     let projectsHTML = "";
